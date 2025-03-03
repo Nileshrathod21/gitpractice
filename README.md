@@ -1,0 +1,2 @@
+# gitpractice
+set up git 

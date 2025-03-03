@@ -1,2 +1,2 @@
 # gitpractice
-set up git 
+set up git practice how git work 
